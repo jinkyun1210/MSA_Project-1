@@ -6,6 +6,9 @@ Kubernetes Education Project#1..
 - 구성요소 : Nginx/HtmlCode
 - 요건 : Docker build와 kubernetes 배포 스크립트
 
+## Dockerhub Link
+- https://cloud.docker.com/repository/docker/jinkyun1210/nginx/general
+
 ## Folder Architecture
 * DockerScript : ./docker
 * KubernetesScript : ./kubernetes
