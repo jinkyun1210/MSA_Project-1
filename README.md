@@ -1,5 +1,5 @@
 # MSA_Project#1
-Kubernetes Education Project#1
+Kubernetes Education Project#1..
 
 ## Info
 - 목적 : Docker Build & Kubernetes Build
