@@ -32,3 +32,24 @@ cd ./kubernetes
 ./kubProvision.sh
 
 ```
+
+# BUGS
+
+Please report bugs to jinkyun1210[at]gmail.com.
+
+# todo
+# CONTRIBUTING
+
+The github repository is at https://github.com/jinkyun1210
+
+# SEE ALSO
+
+Some other stuff.
+
+# AUTHOR
+
+LeeJinkyun, <jinkyun1210[at]gmail.com>
+
+# COPYRIGHT AND LICENSE
+
+(c) Copyright 1997-2019 by SKB Co., LTD
